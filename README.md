@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://baecons.ai/samuelmello79"> 
-  <img heigth="160em" width="46%"align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img heigth="160em" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" /></a>
+  <img heigth="160em" width="49%"align="center" src="https://github-readme-stats.vercel.app/api??username=SamuelMello79&show_icons=true&theme=dracula" />
+  <img heigth="160em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&theme=dracula" /></a>
 </div>
 
 ##
