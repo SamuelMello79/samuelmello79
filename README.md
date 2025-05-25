@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://baecons.ai/samuelmello79"> 
-  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=tokyonight" /></a>
+  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" /></a>
 </div>
 
 ### 📌 Sobre Mim
