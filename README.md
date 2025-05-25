@@ -1,18 +1,21 @@
 # 👋 Olá! Eu sou o Samuel Mello 
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://baecons.ai/samuelmello79">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <a href="https://baecons.ai/samuelmello79" style="flex: 1 1 400px;">
     <img 
-      height="165" 
-      src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs,prs,issues" 
+      height="200" 
+      style="width: 100%; max-width: 600px;" 
+      src="URL_DO_PRIMEIRO_CARD" 
     />
   </a>
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula&hide=html,css" 
-  />
+  <div style="flex: 1 1 300px;">
+    <img 
+      height="200" 
+      style="width: 100%; max-width: 400px;" 
+      src="URL_DO_SEGUNDO_CARD" 
+    />
+  </div>
 </div>
-
 
 ### 📌 Sobre Mim
 
