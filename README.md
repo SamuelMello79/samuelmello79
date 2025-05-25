@@ -1,9 +1,18 @@
 # 👋 Olá! Eu sou o Samuel Mello 
 
-<div>
-  <a href="https://baecons.ai/samuelmello79"> 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" /></a>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <a href="https://baecons.ai/samuelmello79">
+    <img 
+      height="200" 
+      style="min-width: 400px;" 
+      src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" 
+    />
+    <img 
+      height="200" 
+      style="min-width: 300px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" 
+    />
+  </a>
 </div>
 
 
