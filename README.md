@@ -2,9 +2,10 @@
 
 <div>
   <a href="https://baecons.ai/samuelmello79"> 
-  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" /></a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelMello79&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&layout=compact&langs_count=8&theme=dracula" /></a>
 </div>
+
 
 ### 📌 Sobre Mim
 
@@ -13,8 +14,8 @@
 - 🚀 Objetivo: Desenvolver soluções simples para problemas reais
 
 
-### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Samu-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Samu-Spring" height="30"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -27,8 +28,9 @@
   <img align="center" alt="Samu-Java" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
  </div>
 
-### 📫 Contato
 
+
+### 📫 Contato
 <div>
   <a href="https://www.linkedin.com/in/samuel-silva-mello?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mello.developer797@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
