@@ -1,5 +1,13 @@
 # 👋 Olá! Eu sou o Samuel Mello 
 
+### 📌 Sobre Mim
+
+- 🔭 Backend Java Jr | Java + Spring | Construindo APIs e descobrindo o ecossitema Spring
+- 🌱 Aprendendo: Spring Security, JPA/Hibernate e padrões de projeto
+- 🚀 Objetivo: Desenvolver soluções simples para problemas reais
+
+##
+
 <div>
   <a href="https://baecons.ai/samuelmello79"> 
   <img heigth="160em" width="49%"align="center" src="https://github-readme-stats.vercel.app/api??username=SamuelMello79&show_icons=true&theme=dracula" />
@@ -8,11 +16,6 @@
 
 ##
 
-### 📌 Sobre Mim
-
-- 🔭 Backend Java Jr | Java + Spring | Construindo APIs e descobrindo o ecossitema Spring
-- 🌱 Aprendendo: Spring Security, JPA/Hibernate e padrões de projeto
-- 🚀 Objetivo: Desenvolver soluções simples para problemas reais
 
 ##
 
