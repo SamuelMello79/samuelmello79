@@ -3,7 +3,7 @@
 <div>
   <a href="https://baecons.ai/samuelmello79"> 
   <img heigth="160em" width="49%"align="center" src="https://github-readme-stats.vercel.app/api??username=SamuelMello79&show_icons=true&theme=dracula" />
-  <img heigth="160em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&theme=dracula" /></a>
+  <img heigth="160em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelMello79&theme=dracula&layout=compact" /></a>
 </div>
 
 ##
